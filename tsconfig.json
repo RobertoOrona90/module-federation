@@ -29,6 +29,18 @@
     },
     {
       "path": "./tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/shell/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/shell/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/mfe/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/mfe/tsconfig.spec.json"
     }
   ]
 }
